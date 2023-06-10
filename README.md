@@ -8,7 +8,7 @@
  
 <p align="center">
   <em>
-    Currently major as a Mechatronics & Systems Engeering undergraduate from <a href="https://www.atbu.edu.ng/" target="_blank"> <b>Abubakar Tafawa Balewa University</b>, Bauchi, Nigeria</a>. Aspiring <b>Systems Engineer, </b>&nbsp; <b>Competitive Developer</b>&nbsp; and an <b> Artificial Intelligence & Automation Enthusiast.</b>
+    Currently major as a Mechatronics & Systems Engineering undergraduate from <a href="https://www.atbu.edu.ng/" target="_blank"> <b>Abubakar Tafawa Balewa University</b>, Bauchi, Nigeria</a>. Aspiring <b>Systems Engineer, </b>&nbsp; <b>Competitive Developer</b>&nbsp; and an <b> Artificial Intelligence & Automation Enthusiast.</b>
   </em>
   
 <br /><br />
